@@ -1,3 +1,3 @@
-#title: a markdown file
+# Title: a markdown file
 
 Some text
